@@ -1,0 +1,7 @@
+{
+  "name": "Sadhan AI - Conversational Voice Assistant",
+  "description": "An intelligent and polite AI assistant named Sadhan that supports Bengali and English voice conversations using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
